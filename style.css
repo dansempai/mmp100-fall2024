@@ -1,0 +1,11 @@
+body {
+	background-color: forestgreen;
+	margin: 50px;
+	font-family: sans-serif;
+	color: whitesmoke;
+}
+
+a {
+	background-color: black;
+	color: whitesmoke;
+}
